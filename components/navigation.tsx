@@ -21,6 +21,8 @@ export default function Navigation() {
             <Link href="/" className="text-foreground hover:text-accent transition">Home</Link>
             <Link href="/services" className="text-foreground hover:text-accent transition">Services</Link>
             <Link href="/car-wash" className="text-foreground hover:text-accent transition">Car Wash</Link>
+            <Link href="/store" className="text-foreground hover:text-accent transition">Store</Link>
+            <Link href="/restaurant" className="text-foreground hover:text-accent transition">Fuel Station</Link>
             <Link href="/membership" className="text-foreground hover:text-accent transition">Membership</Link>
             <Link href="/gallery" className="text-foreground hover:text-accent transition">Gallery</Link>
           </div>
@@ -40,6 +42,8 @@ export default function Navigation() {
             <Link href="/" className="block text-foreground hover:text-accent py-2">Home</Link>
             <Link href="/services" className="block text-foreground hover:text-accent py-2">Services</Link>
             <Link href="/car-wash" className="block text-foreground hover:text-accent py-2">Car Wash</Link>
+            <Link href="/store" className="block text-foreground hover:text-accent py-2">Store</Link>
+            <Link href="/restaurant" className="block text-foreground hover:text-accent py-2">Fuel Station</Link>
             <Link href="/membership" className="block text-foreground hover:text-accent py-2">Membership</Link>
             <Link href="/gallery" className="block text-foreground hover:text-accent py-2">Gallery</Link>
           </div>

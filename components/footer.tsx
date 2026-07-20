@@ -15,6 +15,8 @@ export default function Footer() {
               <li><Link href="/" className="hover:text-accent transition">Home</Link></li>
               <li><Link href="/services" className="hover:text-accent transition">Services</Link></li>
               <li><Link href="/car-wash" className="hover:text-accent transition">Car Wash</Link></li>
+              <li><Link href="/store" className="hover:text-accent transition">Store</Link></li>
+              <li><Link href="/restaurant" className="hover:text-accent transition">Fuel Station</Link></li>
             </ul>
           </div>
           <div>
